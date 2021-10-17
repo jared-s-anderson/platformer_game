@@ -25,7 +25,6 @@ For this game, I decided to use Python and Pygame. My maps that were created in 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Character and movement needs to be added
 * Enemy movement needs to be updated so that the enemies turn around correctly.
 * Collision detection needs to be implemented.
