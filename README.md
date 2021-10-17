@@ -4,13 +4,13 @@ As a software engineer, working on this project helped me to become more familia
 platformer game, I did not have much experience working with Pygame. After taking the time to work on a platformer game in
 Python, I have become more familiar with both of them.
 
-The type of game that I created is a platformer. The game is played using the arrow keys and the space bar. The left and right keys are used for movement, and the space bar is used for jumping.
+The type of game that I created is a platformer. The game is played using the arrow keys and the space bar. The left and right keys are used for movement, and the space bar is used for jumping. In the game, the player will encounter enemies, jumping obstacles, and coins to collect. Player movements needs to be added into the game. 
 
 My main reason for writing this software was so that I felt more comfortable working with Pygame.
 
 A demonstration of how I created the game can be found below.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EKJ1jbw_OrY)
 
 # Development Environment
 
